@@ -13,3 +13,6 @@ jobs:
       - name: Validate XML and stone-as-stuff contracts
         shell: pwsh
         run: ./Tests/Test-Mod.ps1
+      - name: Validate French and Russian translation targets
+        shell: pwsh
+        run: ./Tests/Test-Translations.ps1
