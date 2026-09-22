@@ -1,0 +1,15 @@
+name: Mod static tests
+
+on: [push, pull_request, workflow_dispatch]
+
+permissions:
+  contents: read
+
+jobs:
+  xml:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate XML and stone-as-stuff contracts
+        shell: pwsh
+        run: ./Tests/Test-Mod.ps1
