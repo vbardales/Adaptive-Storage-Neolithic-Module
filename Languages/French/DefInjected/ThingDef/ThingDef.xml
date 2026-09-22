@@ -25,7 +25,7 @@
 	<ASNeolithicPlinthWoody.label>socle</ASNeolithicPlinthWoody.label>
 	<ASNeolithicPlinthWoody.description>Un socle en bois avec de belles gravures pour exposer des objets.</ASNeolithicPlinthWoody.description>
 	<ASNeolithicPlinthStone.label>socle</ASNeolithicPlinthStone.label>
-	<ASNeolithicPlinthStone.description>Un socle en granite brute avec de belles gravures pour exposer des objets.</ASNeolithicPlinthStone.description>
+	<ASNeolithicPlinthStone.description>Un socle en granite brut avec de belles gravures pour exposer des objets.</ASNeolithicPlinthStone.description>
 
 	<!-- Textile Bundle -->
 	<ASNeolithicTextileBundleFabric.label>ballot</ASNeolithicTextileBundleFabric.label>
