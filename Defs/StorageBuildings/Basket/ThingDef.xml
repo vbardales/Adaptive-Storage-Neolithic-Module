@@ -36,7 +36,7 @@
 						<li>Plants</li>
 						<li>Buildings</li>
 					</disallowedCategories>
-					<disallowedThingDefs MayRequire="Ludeon.RimWorld.Biotech">
+					<disallowedThingDefs>
 						<li MayRequire="Ludeon.RimWorld.Biotech">Wastepack</li>
 					</disallowedThingDefs>
 					<specialFiltersToDisallow>

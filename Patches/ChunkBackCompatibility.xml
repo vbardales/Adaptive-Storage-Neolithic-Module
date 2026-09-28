@@ -16,6 +16,10 @@
 					<defName>Frame_ASNeolithicChunkStorage{defName/text()}</defName>
 					<targetDef>Frame_ASNeolithicChunkStorage</targetDef>
 				</Operation>
+				<Operation Class="DefNameLink.Operation">
+					<defName>Blueprint_Install_ASNeolithicChunkStorage{defName/text()}</defName>
+					<targetDef>Blueprint_Install_ASNeolithicChunkStorage</targetDef>
+				</Operation>
 				<Operation Class="SaveGameCompatibility.Operation">
 					<previousDefName>ASNeolithicChunkStorage{defName/text()}</previousDefName>
 					<newDefName>ASNeolithicChunkStorage</newDefName>
@@ -53,6 +57,10 @@
 				<Operation Class="DefNameLink.Operation">
 					<defName>Frame_ASNeolithicPlinth{defName/text()}</defName>
 					<targetDef>Frame_ASNeolithicPlinthStone</targetDef>
+				</Operation>
+				<Operation Class="DefNameLink.Operation">
+					<defName>Blueprint_Install_ASNeolithicPlinth{defName/text()}</defName>
+					<targetDef>Blueprint_Install_ASNeolithicPlinthStone</targetDef>
 				</Operation>
 				<Operation Class="SaveGameCompatibility.Operation">
 					<previousDefName>ASNeolithicPlinth{defName/text()}</previousDefName>

@@ -35,7 +35,6 @@
 			</fixedStorageSettings>
 			<paintable>true</paintable>
 		</building>
-		<!-- designatorDropdown>ASNeolithicLargePot</designatorDropdown -->
 	</ThingDef>
 
 	<ThingDef ParentName="ASNeolithicLargePotThingBase">
